@@ -33,3 +33,7 @@ The default package contains all required dependencies in the following package 
 * `share/wasi-sysroot`: the WASI sysroot
 
 For concrete usage examples, see [michaelfranzl/clang-wasm-browser-starterpack](https://github.com/michaelfranzl/clang-wasm-browser-starterpack).
+
+## Maintenance
+
+This project is exclusively maintained at https://code.michael.franzl.name/michael/wasi-sdk-nixos
